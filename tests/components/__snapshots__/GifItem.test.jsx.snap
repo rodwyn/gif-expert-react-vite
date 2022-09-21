@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <GifItem /> component. should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="pikachu"
+      src="https://pokemon.com/pikachu.jpg"
+    />
+    <p>
+      pikachu
+    </p>
+  </div>
+</div>
+`;
